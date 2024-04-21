@@ -1,5 +1,5 @@
 import streamlit as st
-st.header('Find the :[rainbow]maximum of :[rainbow] three numbers', divider='rainbow')
+st.header('Find the :rainbow[maximum] of :rainbow[three] numbers', divider='rainbow')
 num1 = st.number_input(label = "Enter 1st number", value = None, placeholder = "1st number...")
 num2 = st.number_input(label = "Enter 2nd number", value = None, placeholder = "2nd number...")
 num3 = st.number_input(label = "Enter 3rd number", value = None, placeholder = "3rd number...")
